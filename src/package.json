@@ -1,0 +1,26 @@
+{
+  "name": "wanderlust",
+  "version": "1.0.0",
+  "description": "A travel-focused social networking platform - share your wanderlust!",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "latest",
+    "recharts": "latest",
+    "react-hook-form": "7.55.0",
+    "sonner": "2.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.4.0"
+  }
+}
